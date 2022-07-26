@@ -3,7 +3,6 @@ import {useState} from 'react';
 
 const Counter = ({stock, initial, onAdd}) => {
 
-    //hook de estado
     const [count, setCount] = useState(initial);
 
     const decrement = () =>{

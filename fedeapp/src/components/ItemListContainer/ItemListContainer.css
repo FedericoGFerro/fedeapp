@@ -1,0 +1,12 @@
+.card_container{
+    background-color: purple;
+    width: 30%;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card_img{
+    width: 50%;
+}
